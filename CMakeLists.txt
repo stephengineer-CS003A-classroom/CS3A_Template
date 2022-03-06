@@ -49,14 +49,12 @@ enable_testing()
 
 
 
-
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #   Grab all cpp files from includes folder
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 set(INCLUDES_FOLDER includes)
 FILE(GLOB_RECURSE SOURCE_FILES RELATIVE ${CMAKE_CURRENT_SOURCE_DIR}   "${INCLUDES_FOLDER}/*.cpp" )
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 
 
 
@@ -80,4 +78,3 @@ TARGET_LINK_LIBRARIES(basic_test gtest)
 TARGET_LINK_LIBRARIES(testB gtest)
 
  
-

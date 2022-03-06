@@ -1,6 +1,12 @@
-#ifndef B_STUB_H
-#define B_STUB_H
-bool stub();      //stub to show how included libraries are incorporated
-                  //  into our projects
+#ifndef STUB_H
+#define STUB_H
 
-#endif
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+// stub to show how included libraries are incorporated into our projects
+bool stub();
+
+#endif // STUB_H

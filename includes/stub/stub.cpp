@@ -1,7 +1,6 @@
-#include <iostream>
-#include <iomanip>
 #include "stub.h"
 
-bool stub(){
+bool stub()
+{
   return true;
 }
