@@ -1,9 +1,8 @@
-
 # Work Report
 
 ## Name: <ins> your name goes here </ins>
 
-## Features:
+## Features
 
 - Not Implemented:
   - what features have been implemented
@@ -25,26 +24,30 @@
 
 <br><br>
 
-# Reflections:
+# Reflections
 
 - Any thoughts you may have and would like to share.
 
-# **output**
+
+# Output
+
+## main.cpp output:
 <pre>
-<br/><br/><br/><br/>
-## Delete this line and paste the output of your basic test and then testB here
-</pre>
-
-
 <br/><br/>
-
-# basic_test.cpp output:
-<pre>
-<br/><br/><br/><br/>
-</pre>
-# testB.cpp output:
-<pre>
-<br/><br/><br/><br/>
+## Delete this line and paste the output of your main here
+<br/><br/>
 </pre>
 
+## basic_test.cpp output:
+<pre>
+<br/><br/>
+## Delete this line and paste the output of your testB here
+<br/><br/>
+</pre>
 
+## testB.cpp output:
+<pre>
+<br/><br/>
+## Delete this line and paste the output of your basic test here
+<br/><br/>
+</pre>
