@@ -74,5 +74,3 @@ ADD_EXECUTABLE(testB
 
 TARGET_LINK_LIBRARIES(basic_test gtest)
 TARGET_LINK_LIBRARIES(testB gtest)
-
- 
