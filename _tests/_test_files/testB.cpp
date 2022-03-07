@@ -12,13 +12,6 @@
 
 using namespace std;
 
-//------------------------------------------------------------------------------
-//@TODO: add more test functions here:
-
-
-
-//------------------------------------------------------------------------------
-
 bool test_stub(bool debug=false)
 {
   if (debug) {
@@ -26,6 +19,14 @@ bool test_stub(bool debug=false)
   }
   return true;
 }
+
+//------------------------------------------------------------------------------
+//@TODO: add more test functions here:
+
+
+
+//------------------------------------------------------------------------------
+
 
 // Lord help me! 
 const bool debug = false;
