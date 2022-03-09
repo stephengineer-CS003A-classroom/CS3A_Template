@@ -4,8 +4,8 @@
 using namespace std;
 
 int main(int argv, char** argc) {
-    cout << "\n" << endl;
+  cout << "\n" << endl;
 
-    cout << "\n\n=====================" << endl;
-    return 0;
+  cout << "\n\n=====================" << endl;
+  return 0;
 }
