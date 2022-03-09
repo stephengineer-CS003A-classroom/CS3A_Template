@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main(int argv, char** argc) {
+int main(int argv, char** argc)
+{
   cout << "\n" << endl;
 
   cout << "\n\n=====================" << endl;
