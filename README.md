@@ -1,6 +1,6 @@
 # Work Report
 
-## Name: <ins> your name goes here </ins>
+## Name: <ins> your_name_goes_here </ins>
 
 ## Features
 
